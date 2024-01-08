@@ -24,6 +24,9 @@
     .card-text {
         display: none;
     }
+    #address{
+        display: none;
+    }
 }
 
 #content {
